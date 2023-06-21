@@ -1,0 +1,2 @@
+{'kode_buku': 'KB2022V0000', 'judul_buku': 'Sulaiman', 'tahun_terbit': '2009', 'pengarang': 'Salam Abdul W.', 'penerbit': 'Khazanah'}
+{'kode_buku': 'KB2022V0002', 'judul_buku': 'Salah', 'tahun_terbit': '2021', 'pengarang': 'Salam', 'penerbit': 'Suku'}

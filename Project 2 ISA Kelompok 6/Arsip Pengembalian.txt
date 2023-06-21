@@ -1,0 +1,1 @@
+{'Kode_Pengembalian': 'SB132022V0000', 'Kode_peminjam': 'PB132022V0000', 'Nama': 'Alvian Novadiansyah', 'Tanggal': '13/05/2022', 'Buku yang Dikembalikan': 'Sangkuriang', 'Telp.': '081389765435', 'Keterangan': 'Sudah Kembali',}

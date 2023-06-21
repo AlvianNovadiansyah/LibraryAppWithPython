@@ -1,0 +1,5 @@
+{'Kode_Peminjam': 'PB132022V0000', 'Nama': 'Alvian Novadiansyah', 'Alamat': 'Pabuaran Asri 2', 'Tanggal': '13/05/2022', 'Buku yang Dipinjam': 'Sangkuriang', 'Telp.': '081387654235'}
+{'Kode_Peminjam': 'PB182022V0001', 'Nama': 'Abdul Salam', 'Alamat': 'Jl. Pembangunan Pemda', 'Tanggal': '18/05/2022', 'Buku yang Dipinjam': 'Sangkuriang', 'Telp.': '082187612321'}
+{'Kode_Peminjam': 'PB182022V0002', 'Nama': 'Bagus S.', 'Alamat': 'Jl. Sudirman', 'Tanggal': '18/05/2022', 'Buku yang Dipinjam': 'Sangkuriang', 'Telp.': '082134617283'}
+{'Kode_Peminjam': 'PB182022V0003', 'Nama': 'Dava S.', 'Alamat': 'Jl. Cibadulug 100', 'Tanggal': '18/05/2022', 'Buku yang Dipinjam': 'Sulaiman', 'Telp.': '081234567812'}
+{'Kode_Peminjam': 'PB182022V0004', 'Nama': 'Fakhri Salamanan', 'Alamat': 'Perum. Sakali', 'Tanggal': '18/05/2022', 'Buku yang Dipinjam': 'Sulaiman', 'Telp.': '081234512345'}
